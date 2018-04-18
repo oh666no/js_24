@@ -7,5 +7,5 @@
             sum += +numbers[i].value;
         }
 
-        document.getElementById('result').innerHTML = "сума двох чисел: "+sum;
+        document.getElementById('result').innerHTML = "Привіт, сума двох чисел: "+sum;
     };
